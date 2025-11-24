@@ -215,3 +215,6 @@ __marimo__/
 *.parquet
 
 data/
+
+
+.DS_Store
