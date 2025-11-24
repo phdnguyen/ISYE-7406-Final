@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1763896706090,"sparkVersion":"4.0.1","uid":"OneHotEncoder_3015f315ace5","paramMap":{"outputCols":["Dispatch Neighborhood_vec"],"inputCols":["Dispatch Neighborhood_idx"]},"defaultParamMap":{"handleInvalid":"error","outputCol":"OneHotEncoder_3015f315ace5__output","dropLast":true}}
